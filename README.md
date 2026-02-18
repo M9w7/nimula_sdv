@@ -12,51 +12,39 @@ Der Screen soll:
 - Responsiv für vorgegeben Viewpors funktionieren
 
 ## Design-Konzept
-Der Login-Screen orientiert sich an folgenden Prinzipien:
-
-Natürliche Farbwelt (Grün-Töne für Ruhe & Balance)
-Minimalistisches UI für Fokus
-Modernes, reduziertes Layout
-Responsive Design für bestimmte Bildschirmgrößen
+- Natürliche Farbwelt (Grün-Töne mild für Ruhe & Balance)
+- Minimalistisches UI für Fokus
+- Modernes, reduziertes Layout
+- Responsive Design für bestimmte Bildschirmgrößen
 
 ## Verwendete Technologien
 HTML5
 CSS3
 JS
 
-## Projektstruktur
-/project-root
-  index.html
-  styles.css
-  attachments
-
 ## Features
-
 Strukturierte und semantische HTML-Struktur
 Wiederverwendbare CSS-Variablen (Farben, Abstände)
 Responsive Layout
 Modernes Button-Design mit Hover-Effekten
 
 ## Installation & Nutzung
-
 ### Repository klonen:
-git clone <repo-url>
+git clone [repo-url]
 
-### Projekt öffnen:
+### Projekt öffnen
 index.html im Browser öffnen (Shortcut: STRG + 1)
-
 Es sind keine zusätzlichen Abhängigkeiten notwendig!
 
-## Mögliche Erweiterungen:
-
-- Validierung mit JavaScript
-- Micro-Animations (z. B. Input-Focus, Button-Hover)
+## Mögliche Erweiterungen
 - Footer
-- Integration in ein Frontend-Framework, um Funktionalität und Architektur strukturiert und sicher zu gestalten.
-
-Anbindung an Backend-API
-
-
+- Zusätzliche Validierung der Login-Daten mit JavaScript
+- Erweiterung mit Authentication Systen (z.B. Auth0, ...)
+- Security Login Themen: XSS Schutz, CSRF Schutz, Token Storage, Refresh Token Handling, Secure Redirects, Error Handling
+- Weitere kleine Animationen. Beispiel Menü Leiste einfliegen lassen etc.
+- Hosting über VPS
+- Integration in ein Frontend-Framework, um Funktionalität und Architektur strukturiert und sicher zu gestalten inkl. Anbindung von links (routing)
+- Anbindung an Backend-API mit definierten Schnittstellen
 
 Autor
 Michael Weber
