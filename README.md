@@ -18,23 +18,22 @@ Der Screen soll:
 - Responsive Design für bestimmte Bildschirmgrößen
 
 ## Verwendete Technologien
-HTML5
-CSS3
-JS
+- HTML5
+- CSS3
+- JS
 
 ## Features
-Strukturierte und semantische HTML-Struktur
-Wiederverwendbare CSS-Variablen (Farben, Abstände)
-Responsive Layout
-Modernes Button-Design mit Hover-Effekten
+- Strukturierte und semantische HTML-Struktur
+- Wiederverwendbare CSS-Variablen (Farben, Abstände)
+- Responsive Layout
+- Modernes, simples Button-Design mit Hover-Effekten
 
 ## Installation & Nutzung
 ### Repository klonen:
 git clone [repo-url]
 
 ### Projekt öffnen
-index.html im Browser öffnen (Shortcut: STRG + 1)
-Es sind keine zusätzlichen Abhängigkeiten notwendig!
+index.html im Browser öffnen (Shortcut: STRG + 1). Es sind keine zusätzlichen Abhängigkeiten notwendig!
 
 ## Mögliche Erweiterungen
 - Footer
