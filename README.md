@@ -33,7 +33,7 @@ Der Screen soll:
 git clone [repo-url]
 
 ### Projekt öffnen
-index.html im Browser öffnen (Shortcut: STRG + 1). Es sind keine zusätzlichen Abhängigkeiten notwendig!
+index.html im Browser öffnen. Es sind keine zusätzlichen Abhängigkeiten notwendig!
 
 ## Mögliche Erweiterungen
 - Footer
